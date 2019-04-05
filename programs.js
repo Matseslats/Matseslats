@@ -6,6 +6,7 @@ let links = ["SF", "SN", "FC", "BC"]
 var imageY, imageX;
 var overWhatProgram;
 var overX, overY = false;
+var toOpen = "";
 
 function programs() {
   for(let i = 0; i < programAmmount; i++){
@@ -65,23 +66,21 @@ function checkClick() {
       overY = false;
     }
     if (overX == true && overY == true) {
+      cursor(HAND);
       if (mouseIsPressed){
-        open(links[overWhatProgram], "_new");
+        toOpen = str(i);
+        // open(links[overWhatProgram], "_new");
+        if (toOpen != "-") {
+          openPage();
+          toOpen = "-";
+        }
       }
+    } else {
+      cursor(ARROW);
     }
   }
 }
 
-function mousePressed() {
-
-  // for(let i = 0; i < programAmmount; i++){
-  //   imageY = imageHeight*0.75+barHeight+barLine/2+i*imageHeight*1.25;
-  //   var imageTop = imageY-imageHeight/2;
-  //   var imageBottom = imageY+imageHeight/2;
-  //   if (mouseX > imageX-imageWidth/2 && mouseX < imageX+imageWidth/2) {
-  //     if (mouseY > imageTop && mouseY < imageBottom){
-  //       open(links[i], "_new");
-  //     }
-  //   }
-  // }
+function openPage() {
+  open(toOpen, "_new");
 }
