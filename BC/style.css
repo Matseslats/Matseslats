@@ -1,0 +1,23 @@
+body {
+  font-size: 25px;
+  font-family: helvetica;
+  font-weight: lighter;
+  color: white;
+  background-color: black;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: rgb(150, 100, 255);
+  background-color: white;
+  font-family: helvetica;
+  font-size: 60px;
+  font-weight: lighter;
+  border-bottom-width: 5px;
+  border-bottom-color: rgb(150, 100, 255);
+  border-bottom-style: solid;
+  text-align: center;
+  padding: 20px;
+  margin-top: 0;
+}
