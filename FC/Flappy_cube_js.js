@@ -2,7 +2,7 @@ p5.disableFriendlyErrors = true; // disables FES
 
 var pX, pY, x, y, w, pipeX, pipeY;
 var speed = 0;   // speed of square
-const gravity = 0.3; 
+const gravity = 0.3;
 const distPipes = 300; // Distance between pipes
 const widthPipes = 70; //Width of pipes
 const gapPipes = 150; //Gap between pipes;
@@ -25,7 +25,11 @@ var lines = [];
 let text;
 
 function setup() {
-  createCanvas(600, 600);
+  if (windowWidth > windowHeight) {
+    createCanvas(windowWidth -100, windowHeight -200);
+  } else {
+    createCanvas(windowWidth -100, windowHeight -200);
+  }
   //icon = loadImage("icon.png");
   //surface.setIcon(icon);
   text = createGraphics(width, height);
@@ -184,7 +188,7 @@ function gameOver() {
   text.text("Best: " + highScore, width/2, height/2+ 55);
   // text.endDraw();
   image(text, 0, 0);
-  
+
   speed = 0;
   menu = true;
 }
