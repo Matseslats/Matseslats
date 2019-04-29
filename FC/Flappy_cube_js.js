@@ -99,7 +99,7 @@ function draw() {
     } else {
       x -= 2;
     }
-    score = int(-x/height/2);
+    score = int(-x/distPipes );
   }
 }
 
