@@ -2,12 +2,12 @@ p5.disableFriendlyErrors = true; // disables FES
 
 var pX, pY, x, y, w, pipeX, pipeY;
 var speed = 0;   // speed of square
-const gravity = 0.3;
-const distPipes = 300; // Distance between pipes
-const widthPipes = 70; //Width of pipes
-const gapPipes = 150; //Gap between pipes;
-const ground = 30; //Hight of the ground
-const border = 8;
+var gravity;
+var distPipes; // Distance between pipes
+var widthPipes; //Width of pipes
+var gapPipes; //Gap between pipes;
+var ground; //Hight of the ground
+var border;
 
 var score, highScore = 0;
 
@@ -30,11 +30,17 @@ function setup() {
   } else {
     createCanvas(windowWidth -100, windowHeight -200);
   }
+  gravity = height/1800;
+  distPipes = height/2;
+  widthPipes = height/8.5;
+  gapPipes = height/4;
+  ground = height/20;
+  border = height/75;
   //icon = loadImage("icon.png");
   //surface.setIcon(icon);
   text = createGraphics(width, height);
 
-  w = 50;
+  w = height/12;
   generate();
   noSmooth();
   text.smooth();
@@ -55,10 +61,10 @@ function draw() {
     // text.beginDraw();
     text.clear();
     text.textAlign(CENTER, CENTER);
-    text.textSize(50);
+    text.textSize(height/12);
     text.fill(236);
     text.text("START GAME", width/2, height/2 - 25);
-    text.textSize(30);
+    text.textSize(height/20);
     text.text("BY PRESSING SPACE", width/2, height/2 + 25);
     // text.endDraw();
     image(text, 0, 0);
@@ -70,15 +76,15 @@ function draw() {
     drawPipes();
     drawPlayer();
 
-    if (pY > height - ground - 25) {
+    if (pY > height - ground - w/2) {
       gameOver();
     } else {
       // text.beginDraw();
       text.clear();
-      text.textSize(20);
+      text.textSize(height/30);
       text.fill(236);
       text.textAlign(CORNER, TOP);
-      text.text("SCORE: " + score, 55, 10);
+      text.text("SCORE: " + score, height/12, height/60);
       // text.endDraw();
       image(text, 0, 0);
     }
@@ -93,7 +99,7 @@ function draw() {
     } else {
       x -= 2;
     }
-    score = int(-x/300);
+    score = int(-x/height/2);
   }
 }
 
@@ -112,7 +118,7 @@ function move() {
   }
 
   if (jump) {
-    speed = -3.5;// + gravity;
+    speed = -height/171;// + gravity;
     jump = false;
   }
 }
@@ -146,7 +152,7 @@ function drawPipes() {
     var secPipeY = pipeHeight[i] + gapPipes;
     rect(pipeX, secPipeY, widthPipes, height - secPipeY);
 
-    if (pX + w/2 > 230 + x + i*distPipes - border && pX < 230 + w/2 + x + widthPipes +i *distPipes + border) {
+    if (pX + w/2 > height/2.6 + x + i*distPipes - border && pX < height/2.6 + w/2 + x + widthPipes +i *distPipes + border) {
       if (pY - w/2 < pipeHeight[score] + border || pY + w/2 > pipeHeight[score] + gapPipes - border) {
         if (menu == false) {
           menuTime = millis();
@@ -158,7 +164,7 @@ function drawPipes() {
 }
 
 function generate() {
-  pX = 50; //X pos of player
+  pX = w; //X pos of player
   pY = height/2; //Start y pos of player
   x = 0; // first pipe
 
@@ -180,10 +186,10 @@ function gameOver() {
   // text.beginDraw();
   text.clear();
   text.textAlign(CENTER, CENTER);
-  text.textSize(50);
+  text.textSize(height/12);
   text.fill(236);
   text.text("GAME OVER", width/2, height/2 - 35);
-  text.textSize(30);
+  text.textSize(height/18);
   text.text("Score: " + score, width/2, height/2+ 15);
   text.text("Best: " + highScore, width/2, height/2+ 55);
   // text.endDraw();
