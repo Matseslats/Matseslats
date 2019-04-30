@@ -43,17 +43,16 @@ h3 {
   font-weight: lighter;
 }
 
-a {
-  color: white;
-  text-decoration: underline;
-}
+
 
 img {
   border: 5px;
   border-color: rgb(150, 100, 255);
   border-style: solid;
+}
 
-
+img:hover {
+  border-color: white;
 }
 
 * {
@@ -69,7 +68,7 @@ img {
   float: left;
   width: 48%;
   margin-right: 40px;
-  margin-top: 20px;
+  margin-top: 15px;
   text-align: right;
 }
 
@@ -99,11 +98,16 @@ img {
   border-color: rgb(150, 100, 255);
   border-top-style: solid;
 }
+a {
+  color: rgb(150, 100, 255);
+  text-decoration: underline;
+}
 
 a:link {
+  color: rgb(150, 100, 255);
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(150, 100, 255);
+  color: white;
 }
