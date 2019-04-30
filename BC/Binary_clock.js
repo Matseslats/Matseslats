@@ -1,8 +1,10 @@
-var h, m, s, x, y;
+var h, m, s, x, y, w;
 
 function setup() {
-  createCanvas(161, 311);
-  noCursor();
+  w = 50;
+  createCanvas(w*3, w*6);
+  frameRate(20);
+  // noCursor();
   strokeWeight(2);
 }
 
@@ -20,16 +22,16 @@ function LED() {
     fill(255, 0, 0);
     if (h >= pow(2, i)) h -= pow(2, i);
     else fill(176, 0, 0);
-    rect(29, height - (i * 50) - 30, 50, 50, 5);
+    rect(w/2, height - (i * w) - w/2, w, w, w/10);
 
     fill(0, 255, 0);
     if (m >= pow(2, i)) m -= pow(2, i);
     else fill(0, 176, 0);
-    rect(79, height - (i * 50) - 30, 50, 50, 5);
+    rect(w*1.5, height - (i * w) - w/2, w, w, w/10);
 
     fill(0, 0, 255);
     if (s >= pow(2, i)) s -= pow(2, i);
     else fill(0, 0, 176);
-    rect(129, height - (i * 50) - 30, 50, 50, 5);
+    rect(w*2.5, height - (i * w) - w/2, w, w, w/10);
   }
 }
