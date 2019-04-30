@@ -6,6 +6,7 @@ body {
   background-color: black;
   text-align: center;
   margin: 0;
+  overflow: hidden;
 }
 
 h1 {
@@ -32,15 +33,7 @@ h2 {
 }
 
 a {
-  color: rgb(150, 100, 255);
-  text-decoration: none;
-}
-
-b {
-  color: rgb(150, 100, 255);
-  text-decoration: underline;
-}
-
-b:hover {
-  color: white;
+font-weight: lighter;
+text-decoration: none;
+color: rgb(150, 100, 255);
 }
