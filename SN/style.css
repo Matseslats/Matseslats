@@ -32,8 +32,12 @@ h2 {
 }
 
 a {
-  color: rgb(150, 100, 255);
+  color: white;
   text-decoration: none;
+}
+
+a:hover {
+  color: rgb(150, 100, 255);
 }
 
 b {
