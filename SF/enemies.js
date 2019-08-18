@@ -9,7 +9,7 @@ function enemy(){
   } else if (enemy1x < -25){
     enemy1x = 1000;
     enemy1y = random(0, 695);
-    enemy1x = random(1200, 1255);
+    enemy1x = random(1280, 1280 + 55);
     score += 1;
     if (soundIconOn == 1){
       if (focused){
@@ -40,7 +40,7 @@ function enemy(){
   } else if (enemy2x < -20){
     enemy2x = 1000;
     enemy2y = random(0, 695);
-    enemy2x = random(1200, 1255);
+    enemy2x = random(1280, 1280 + 55);
     score += 1;
     if (soundIconOn == 1){
       if (focused){
@@ -71,7 +71,7 @@ function enemy(){
   } else if (enemy3x < -20){
     enemy3x = 1000;
     enemy3y = random(0, 695);
-    enemy3x = random(1200, 1255);
+    enemy3x = random(1280, 1280 + 55);
     score += 1;
     if (soundIconOn == 1){
       if (focused){

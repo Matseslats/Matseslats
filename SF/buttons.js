@@ -2,62 +2,65 @@
 // public var lastFocused;
 
 function buttons(){
-  if(musicIconOn == 0){
-      image(musicIconOff, musicIconX, musicIconY);
-    } else if (musicIconOn == 1){
-      image(musicIcon, musicIconX, musicIconY);
-    }
-
-//----------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
-
-
-      if(soundIconOn == 0){
-        image(soundIconOff, soundIconX, soundIconY);
-
-      } else if (soundIconOn == 1){
-        image(soundIcon, soundIconX, soundIconY);
-
-      }
-  if (
-    mouseX < musicIconX + 75 &&
-    mouseX > musicIconX &&
-    mouseY < musicIconY + 75 &&
-    mouseY > musicIconY) {
-      overButtonMusic = 1;
-      tint(255, 100);
-      image(iconSelected, musicIconX, musicIconY, 75, 75);
-      tint(255, 255);
-    } else {
-      overButtonMusic = 0;
-    }
-  if (
-    mouseX < soundIconX + 75 &&
-    mouseX > soundIconX &&
-    mouseY < soundIconY + 75 &&
-    mouseY > soundIconY) {
-      overButtonSound = 1;
-      tint(255, 100);
-      image(iconSelected, soundIconX, soundIconY, 75, 75);
-      tint(255, 255);
-    } else {
-      overButtonSound = 0;
-    }
+//   if(musicIconOn == 0){
+//       image(musicIconOff, musicIconX, musicIconY);
+//     } else if (musicIconOn == 1){
+//       image(musicIcon, musicIconX, musicIconY);
+//     }
+//
+// //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
+//
+//
+//       if(soundIconOn == 0){
+//         image(soundIconOff, soundIconX, soundIconY);
+//
+//       } else if (soundIconOn == 1){
+//         image(soundIcon, soundIconX, soundIconY);
+//
+//       }
+//   if (
+//     mouseX < musicIconX + 75 &&
+//     mouseX > musicIconX &&
+//     mouseY < musicIconY + 75 &&
+//     mouseY > musicIconY) {
+//       overButtonMusic = 1;
+//       tint(255, 100);
+//       image(iconSelected, musicIconX, musicIconY, 75, 75);
+//       tint(255, 255);
+//     } else {
+//       overButtonMusic = 0;
+//     }
+//   if (
+//     mouseX < soundIconX + 75 &&
+//     mouseX > soundIconX &&
+//     mouseY < soundIconY + 75 &&
+//     mouseY > soundIconY) {
+//       overButtonSound = 1;
+//       tint(255, 100);
+//       image(iconSelected, soundIconX, soundIconY, 75, 75);
+//       tint(255, 255);
+//     } else {
+//       overButtonSound = 0;
+//     }
 
 }
 
 
 
 function cursorOrNot(){
+  imageMode(CENTER);
+  image(cursor, mouseX, mouseY, 25, 25);
+  imageMode(CORNER);
   // if (cursorInFrame){
-    if (overButtonSound == 0 && overButtonMusic == 0){
-      imageMode(CENTER);
-      image(cursor, mouseX, mouseY, 25, 25);
-      imageMode(CORNER);
-    } else if (overButtonSound == 1 || overButtonMusic == 1){
-      imageMode(CENTER);
-      image(cursorOver, mouseX, mouseY, 25, 25);
-      imageMode(CORNER);
-    }
+    // if (overButtonSound == 0 && overButtonMusic == 0){
+    //   imageMode(CENTER);
+    //   image(cursor, mouseX, mouseY, 25, 25);
+    //   imageMode(CORNER);
+    // } else if (overButtonSound == 1 || overButtonMusic == 1){
+    //   imageMode(CENTER);
+    //   image(cursorOver, mouseX, mouseY, 25, 25);
+    //   imageMode(CORNER);
+    // }
   // }
 }
 // public function mouseExited(){
