@@ -150,16 +150,13 @@ function setup(){
   cursor = loadImage("pictures/"+"cursor.png");
   cursorOver = loadImage("pictures/"+"cursorOver.png");
 
-  // surface.setIcon(logo);
-  // surface.setTitle("Star Fight " + version);
-
   spawnEnemies();
 
   scoreFont = loadFont('data/Fipps-Regular.otf', 50);
   highScoreFont = loadFont('data/Fipps-Regular.otf', 30);
   score = 0;
 
-  highScore = 0;
+  highScore = localStorage.getItem("highScore");
 }
 function draw(){
   if (gameLoadCheck == 0){
@@ -238,18 +235,17 @@ function draw(){
 
 
 
-  // if (highScore < score){
-  //   highScore = score;
-  //   highestScore = 1;
-  // } else if (highScore > score){
-  //   highestScore = 0;
-  // }
+  if (highScore < score){
+    highScore = score;
+    highestScore = 1;
+  } else if (highScore > score){
+    highestScore = 0;
+  }
   if (highestScore == 1){
     textAlign(CORNER);
     textFont(highScoreFont);
     fill(0, 255, 27, 255-map(millis()%2000,0,2000,0,300));
     text("New High Score", 875, 90);
-    //saveGame();
   }
 
   textAlign(CORNER);
@@ -261,6 +257,7 @@ function draw(){
   if(hitTime + 1000 > millis()){
     if (endScore == highScore){
       fill(0, 255, 27);
+      saveGame();
     } else {
       fill(255, 0, 4);
     }
