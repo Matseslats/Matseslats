@@ -21,30 +21,3 @@ h1 {
   padding: 20px;
   margin-top: 0;
 }
-
-h2 {
-  color: white;
-  font-family: helvetica;
-  font-size: 30px;
-  font-weight: lighter;
-  text-decoration: none;
-  line-height: 1.5;
-}
-
-a {
-  color: white;
-  text-decoration: none;
-}
-
-a:hover {
-  color: rgb(150, 100, 255);
-}
-
-b {
-  color: rgb(150, 100, 255);
-  text-decoration: underline;
-}
-
-b:hover {
-  color: white;
-}
