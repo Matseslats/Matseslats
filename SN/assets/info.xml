@@ -3,116 +3,276 @@
     <title>Space.com</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity&#39;s ongoing expansion across the final frontier.</description>
-    <pubDate>Tue, 11 Jun 2019 09:40:02 +0000</pubDate>
-
+    <pubDate>Thu, 27 Feb 2020 19:38:40 +0000</pubDate>
     <item>
-      <title>The App uses the RSS feed from space.com, not this one.</title>
-      <link>https://www.space.com/nasa-defends-trump-moon-mars-tweet.html</link>
-      <description>If you download the actual app, you'll get exiting news, not my poorly written words</description>
-      <author>Hanneke Weitering</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/h3HYyj7TAxWM89HHy8YcQV.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/nasa-defends-trump-moon-mars-tweet.html</guid>
-      <pubDate>Mon, 10 Jun 2019 22:07:06 +0000</pubDate>
+      <title>Boom! Scientists spot the biggest known explosion in the universe</title>
+      <link>https://www.space.com/biggest-cosmic-explosion-universe-discovery.html</link>
+      <description>A gargantuan explosion tore through the heart of a distant galaxy cluster, releasing about five times more energy than the previous record holder, a new study reports.</description>
+      <author>Mike Wall</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/SEn2XQugLGPvHQg39QvEV.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/biggest-cosmic-explosion-universe-discovery.html</guid>
+      <pubDate>Thu, 27 Feb 2020 19:07:12 +0000</pubDate>
     </item>
     <item>
-      <title>I didnt get permission to use the RSS feed</title>
-      <link>https://www.space.com/moon-south-pole-anomaly-metal-asteroid-impact.html</link>
-      <description>Space.com's RSS feed is freey avlible, but using is on your website is not allowed. This is probbly so people don't copy their website</description>
-      <author>Meghan Bartels</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/LpoKW9yeVXfKmAL2JmXVhb.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/moon-south-pole-anomaly-metal-asteroid-impact.html</guid>
-      <pubDate>Mon, 10 Jun 2019 22:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oh boy are you really going to read all 30 of these?</title>
-      <link>https://www.space.com/apollo-11-anniversary-events-schedule.html</link>
-      <description>For all you know these items may be super boring. I really hope you don't read them all</description>
-      <author>Chelsea Gohd</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/96aadxnfmM2qEwYJ8gpcwJ.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/apollo-11-anniversary-events-schedule.html</guid>
-      <pubDate>Mon, 10 Jun 2019 21:09:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why are you still here?</title>
-      <link>https://www.space.com/apollo-11-complete-guide.html</link>
-      <description>I told you to stop. Is that so difficult? Just go back to th website. Thank you</description>
-      <author>Chelsea Gohd</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/b6iMnsZu9ztMEVB78KKk8k.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/apollo-11-complete-guide.html</guid>
-      <pubDate>Mon, 10 Jun 2019 21:08:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>WHAT! Leave!</title>
-      <link>https://www.space.com/ceres-highest-mountain-mud-plume.html</link>
-      <description>Okay I'll tell you a little secret. I have permission to use the XML, but you have to activate it first. To activate it press "Ctrl" + "w". Enjoy :)</description>
-      <author>Charles Q. Choi</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/Cv8sRXMNaMoq2xxVEzagag.png" length="0" type="image/png"></enclosure>
-      <guid>https://www.space.com/ceres-highest-mountain-mud-plume.html</guid>
-      <pubDate>Mon, 10 Jun 2019 19:55:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okay okay okay</title>
-      <link>https://www.space.com/rare-earth-meteorites-formed-in-asteroid-vesta-crash.html</link>
-      <description>I see you didnt try that little trick. Then you'll be stuck with me. I'm deeply sorry for you..</description>
-      <author>Charles Q. Choi</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/Z4ai5rKWyqaVNcehPickfT.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/rare-earth-meteorites-formed-in-asteroid-vesta-crash.html</guid>
-      <pubDate>Mon, 10 Jun 2019 19:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Tweet to cancel all moon missions</title>
-      <link>https://www.space.com/18377-new-horizons.html</link>
-      <description>The latest tweet from the president shocked the world by saying NASA should focus more on Mars than the Moon</description>
+      <title>SpaceX&#39;s next Starship prototype moves to launchpad for testing (video)</title>
+      <link>https://www.space.com/spacex-starship-moves-launch-pad-video.html</link>
+      <description>Look at that Starship go! A new time-lapse video shows a prototype of SpaceX&#39;s Mars-colonizing ship moving toward the launchpad for testing.</description>
       <author>Elizabeth Howell</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/WLcNKrxDs27XgCHbeV6xwc.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/18377-new-horizons.html</guid>
-      <pubDate>Mon, 10 Jun 2019 19:28:41 +0000</pubDate>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/PWnTmJbasdHZ8RckdtS3b7.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/spacex-starship-moves-launch-pad-video.html</guid>
+      <pubDate>Thu, 27 Feb 2020 19:05:28 +0000</pubDate>
     </item>
     <item>
-      <title>You thought you goot space news huh?</title>
-      <link>https://www.space.com/white-holes.html</link>
-      <description>Well too bad because you only get my terrible attempt at humour instead. That tweet was quite obviously not real, but maybe one of you got fooled. Well probably not..</description>
-      <author>Charlie Wood</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/fTFFteJqcM7xpW6v6Ncu4E.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/white-holes.html</guid>
-      <pubDate>Mon, 10 Jun 2019 16:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okay I give up</title>
-      <link>https://www.space.com/space-hippos-crashed-coachella-photos.html</link>
-      <description>I'm not even half way there yet. Im a programmer, not a comedian (Like that wasnt clear already)</description>
+      <title>&#39;Star Wars: The High Republic&#39; revealed: New books will introduce a bygone Jedi era</title>
+      <link>https://www.space.com/star-wars-high-republic-jedi-backstory-books.html</link>
+      <description>&#34;Star Wars&#34; is starting an epic &#34;storytelling initiative&#34; to fill out the history of the franchise some 200 years before the events of the 1999 movie &#34;Star Wars: The Phantom Menace.&#34;</description>
       <author>Elizabeth Howell</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/A94mD6DVVZiW5fF9TARMTk.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/space-hippos-crashed-coachella-photos.html</guid>
-      <pubDate>Mon, 10 Jun 2019 16:00:00 +0000</pubDate>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/cz4qkbVyVf8EtNgDtKYiNm.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/star-wars-high-republic-jedi-backstory-books.html</guid>
+      <pubDate>Thu, 27 Feb 2020 17:47:56 +0000</pubDate>
     </item>
     <item>
-      <title> </title>
-      <link>https://www.space.com/zero-halliburton-apollo-moon-technical-cases.html</link>
-      <description> </description>
-      <author>Robert Z. Pearlman</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/LgCW3jNUQtEGtnTgpqndqC.jpg" length="0" type="image/jpeg"></enclosure>
-      <guid>https://www.space.com/zero-halliburton-apollo-moon-technical-cases.html</guid>
-      <pubDate>Mon, 10 Jun 2019 15:00:00 +0000</pubDate>
+      <title>Two private satellites just docked in space in historic first for orbital servicing</title>
+      <link>https://www.space.com/private-satellites-docking-success-northrop-grumman-mev-1.html</link>
+      <description>In a historic first for satellite operations, one spacecraft &#34;helper&#34; docked with a working satellite to provide life-extension services.</description>
+      <author>Elizabeth Howell</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/6fn8VWh9kaDFBLsCPACLmG.png" length="0" type="image/png"></enclosure>
+      <guid>https://www.space.com/private-satellites-docking-success-northrop-grumman-mev-1.html</guid>
+      <pubDate>Thu, 27 Feb 2020 15:45:35 +0000</pubDate>
     </item>
     <item>
-      <title> </title>
+      <title>Possible new &#39;minimoon&#39; discovered orbiting Earth</title>
+      <link>https://www.space.com/mini-moon-2020-cd3-discovered.html</link>
+      <description>Astronomers discovered a &#39;minimoon&#39; that&#39;s been orbiting Earth for about three years, and may soon leave our planet&#39;s orbit.</description>
+      <author>Brandon Specktor</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/vaHj349M9ezSV2aFHcK8mC.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/mini-moon-2020-cd3-discovered.html</guid>
+      <pubDate>Thu, 27 Feb 2020 15:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Space calendar 2020: Rocket launches, sky events, missions &amp; more!</title>
       <link>https://www.space.com/32286-space-calendar.html</link>
-      <description> </description>
+      <description>Here&#39;s a guide to all the rocket launches and astronomical events in 2020, as well as milestones for space missions, anniversaries and conferences.</description>
       <author>Hanneke Weitering</author>
       <enclosure url="http://cdn.mos.cms.futurecdn.net/3nVmZz9czgqfsTaiVcckPo.jpg" length="0" type="image/jpeg"></enclosure>
       <guid>https://www.space.com/32286-space-calendar.html</guid>
-      <pubDate>Oh boy. These too??</pubDate>
+      <pubDate>Thu, 27 Feb 2020 14:50:22 +0000</pubDate>
     </item>
     <item>
-      <title> </title>
+      <title>Pictures from space! Our image of the day</title>
       <link>https://www.space.com/34-image-day.html</link>
-      <description> </description>
-      <author>Hanneke Weitering</author>
-      <enclosure url="http://cdn.mos.cms.futurecdn.net/GxwDhkUhUynbgs77kK6kf8.jpg" length="0" type="image/jpeg"></enclosure>
+      <description>The night sky above the Paranal Observatory in Chile is ablaze with vibrant airglow in this gorgeous view by astrophotographer Yuri Beletsky.</description>
+      <author>Space.com Staff</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/HFsg8TXoKvg8foRUcUx6QQ.jpg" length="0" type="image/jpeg"></enclosure>
       <guid>https://www.space.com/34-image-day.html</guid>
-      <pubDate>Wed 20 Apr 2019 25:61:00 +0000</pubDate>
+      <pubDate>Thu, 27 Feb 2020 14:45:28 +0000</pubDate>
     </item>
-    
+    <item>
+      <title>How to see Venus shining with the moon tonight</title>
+      <link>https://www.space.com/venus-moon-conjunction-february-2020.html</link>
+      <description>Tonight (Feb. 27), as darkness is falling, be sure to look toward the west-southwest sky to spot another beautiful celestial tableau formed by a lovely crescent moon and the brilliant planet Venus. </description>
+      <author>Joe Rao</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/xVfHtG8kmrBX8jtt5zQsgS.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/venus-moon-conjunction-february-2020.html</guid>
+      <pubDate>Thu, 27 Feb 2020 14:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>On This Day in Space: Feb. 27, 1942: J.S. Hey discovers radio emissions from the sun</title>
+      <link>https://www.space.com/39251-on-this-day-in-space.html</link>
+      <description>On Feb. 27, 1942, a British physicist named James Stanley Hey accidentally found out that the sun emits radio waves. See how it happened in our On This Day in Space video series!</description>
+      <author>Hanneke Weitering</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/2yFdpFmPnWFzwFMZy2D2eS.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/39251-on-this-day-in-space.html</guid>
+      <pubDate>Thu, 27 Feb 2020 12:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump hails India&#39;s &#39;impressive strides&#39; on moon exploration, pledges greater cooperation on space</title>
+      <link>https://www.space.com/trump-hails-india-moon-missions-us-space-cooperation.html</link>
+      <description>India&#39;s rapid progress in lunar exploration has the attention of the president of the United States.</description>
+      <author>Elizabeth Howell</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/yJoLaHUcEdeXdo2XrLMdWa.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/trump-hails-india-moon-missions-us-space-cooperation.html</guid>
+      <pubDate>Thu, 27 Feb 2020 12:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baby Yoda toys from &#39;Star Wars&#39; will launch an unstoppable campaign of cuteness this year</title>
+      <link>https://www.space.com/baby-yoda-star-wars-toys-in-stores-2020.html</link>
+      <description>Fans of Disney&#39;s hit series &#34;The Mandalorian&#34; will be thrilled to see dozens of products inspired by &#34;The Child&#34; (better known as Baby Yoda) in stores this year. </description>
+      <author>Kasandra Brabaw</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/i7VjTqJwn66y7kE4bwBWNP.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/baby-yoda-star-wars-toys-in-stores-2020.html</guid>
+      <pubDate>Thu, 27 Feb 2020 12:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>&#39;Superpuff&#39; alien worlds could be ringed giant planets just like Saturn</title>
+      <link>https://www.space.com/super-puff-alien-worlds-or-ringed-planets.html</link>
+      <description>All four outer planets in our solar system sport at least a few rings, but so far, we haven&#39;t observed any such features around exoplanets. That&#39;s confusing.</description>
+      <author>Paul Sutter</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/uZBj2MvMT5CgK2YSfFCcNG.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/super-puff-alien-worlds-or-ringed-planets.html</guid>
+      <pubDate>Thu, 27 Feb 2020 12:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX delays next Dragon cargo ship launch for NASA due to rocket issue</title>
+      <link>https://www.space.com/spacex-dragon-crs-20-cargo-ship-launch-delay.html</link>
+      <description>SpaceX has delayed the launch of its next Dragon cargo ship bound for the International Space Station by at least four days in order to replace the upper stage of the mission&#39;s Falcon 9 rocket. </description>
+      <author>Tariq Malik</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/NSKj83yjGWy5HrJhXxJvDj.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/spacex-dragon-crs-20-cargo-ship-launch-delay.html</guid>
+      <pubDate>Wed, 26 Feb 2020 23:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to spot Canis Major, the big dog of winter</title>
+      <link>https://www.space.com/canis-major-big-dog-of-winter-spring-skywatching.html</link>
+      <description>The constellation of Canis Major is visible in the winter sky this month. </description>
+      <author>Joe Rao</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/2mmh66aj24P8W79WDUTYt6.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/canis-major-big-dog-of-winter-spring-skywatching.html</guid>
+      <pubDate>Wed, 26 Feb 2020 22:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>15-million-year-old crater on Earth reveals clues about Mars&#39; watery past</title>
+      <link>https://www.space.com/earth-impact-crater-clues-to-mars-water-past.html</link>
+      <description>Meteorite samples from an ancient impact site in Germany may offer new clues about the history of oceans and life on Mars.</description>
+      <author>Samantha Mathewson</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/paDYJiabxth7LGy36U8EgZ.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/earth-impact-crater-clues-to-mars-water-past.html</guid>
+      <pubDate>Wed, 26 Feb 2020 19:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese moon rover peers beneath surface of mysterious lunar far side</title>
+      <link>https://www.space.com/china-change-4-moon-far-side-subsurface.html</link>
+      <description>The first published data from the Yutu 2 rover&#39;s ground-penetrating radar instrument reveal the layered structure beneath the gray dirt of Von Kármán Crater&#39;s floor. </description>
+      <author>Mike Wall</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/hcvyS9csVEvKCGGPCYbCV9.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/china-change-4-moon-far-side-subsurface.html</guid>
+      <pubDate>Wed, 26 Feb 2020 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA&#39;s VIPER moon mission to seek out lunar water slips to 2023</title>
+      <link>https://www.space.com/viper-nasa-moon-rover-launch-delayed-2023.html</link>
+      <description>NASA is delaying the launch of a long-lived rover designed to sniff out water on the moon.</description>
+      <author>Meghan Bartels</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/QStLE3RwRSwbayMxfWrxMi.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/viper-nasa-moon-rover-launch-delayed-2023.html</guid>
+      <pubDate>Wed, 26 Feb 2020 17:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virgin Galactic gearing up to start selling suborbital spaceflight tickets again</title>
+      <link>https://www.space.com/virgin-galactic-spaceshiptwo-reservations-one-small-step.html</link>
+      <description>If you&#39;re looking to book a ride to suborbital space with Virgin Galactic, you shouldn&#39;t have to wait much longer.</description>
+      <author>Mike Wall</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/oK6P2rkZmujMfsGVudP227.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/virgin-galactic-spaceshiptwo-reservations-one-small-step.html</guid>
+      <pubDate>Wed, 26 Feb 2020 12:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mars lander reveals new details about the Red Planet&#39;s strange magnetic field</title>
+      <link>https://www.space.com/mars-weird-magnetic-field-insight-lander-discovery.html</link>
+      <description>The magnetic field in one zone on Mars is about 10 times stronger than scientists expected, and it&#39;s changing rapidly.</description>
+      <author>Elizabeth Howell</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/RhJaNWKeGSGzyK8me6yp87.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/mars-weird-magnetic-field-insight-lander-discovery.html</guid>
+      <pubDate>Wed, 26 Feb 2020 12:29:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can a rogue star kick Earth out of the solar system?</title>
+      <link>https://www.space.com/rogue-star-kick-earth-out-solar-system.html</link>
+      <description>Life on any planet faces numerous existential threats — including the possibility of the planet getting kicked out of its solar system altogether. One team of researchers ran the numbers and found that the Earth is safe from such a catastrophe — almost.</description>
+      <author>Paul Sutter</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/MudTYYp9RYwnji8ggKuwjQ.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/rogue-star-kick-earth-out-solar-system.html</guid>
+      <pubDate>Wed, 26 Feb 2020 12:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>This &#39;hot Jupiter&#39; alien planet is dancing with death with its 18-hour year</title>
+      <link>https://www.space.com/hot-jupiter-exoplanet-torn-apart-18-hour-year.html</link>
+      <description>A newly found planet orbits so close to its parent star that it&#39;s close to being torn apart by the tidal forces induced by gravity.</description>
+      <author>Elizabeth Howell</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/soRko7nx7K5ZRkAGKYjRgm.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/hot-jupiter-exoplanet-torn-apart-18-hour-year.html</guid>
+      <pubDate>Wed, 26 Feb 2020 12:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Isle of Man marks Apollo 13 50th with new &#39;One Giant Leap&#39; stamps</title>
+      <link>https://www.space.com/isle-of-man-apollo-giant-leap-stamps.html</link>
+      <description>A former NASA manager who was in mission control when Apollo 13 &#34;had a problem&#34; worked with a small postal service to celebrate the missions&#39;s 50th anniversary with new set of stamps.</description>
+      <author>Robert Z. Pearlman</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/6Hs6sQDwQ777ZtsK6LNwcK.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/isle-of-man-apollo-giant-leap-stamps.html</guid>
+      <pubDate>Tue, 25 Feb 2020 23:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 trippy objects hidden in the zodiac</title>
+      <link>https://www.space.com/space-secrets-of-the-zodiac.html</link>
+      <description>The 12 constellations of the Zodiac contain some of the weirdest, most wonderful objects in the universe. Here are our favorites.</description>
+      <author>Brandon Specktor</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/KH8is7p4DxCNsVKZM7WJFb.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/space-secrets-of-the-zodiac.html</guid>
+      <pubDate>Tue, 25 Feb 2020 22:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cosmic cookies! Astronaut weighs in on the future of baking in space</title>
+      <link>https://www.space.com/space-cookies-baking-future-astronaut-mike-massimino.html</link>
+      <description>Recently, a batch of baked chocolate chip cookies returned from space, signifying a major step forward towards the future of how humans will eat and thrive in space. </description>
+      <author>Chelsea Gohd</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/wrqj9JzRtiMqFdaFED7obN.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/space-cookies-baking-future-astronaut-mike-massimino.html</guid>
+      <pubDate>Tue, 25 Feb 2020 21:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cut derelict spaceships into spare parts in &#39;Hardspace: Shipbreaker&#39;</title>
+      <link>https://www.space.com/hardspace-shipbreaker-cut-derelict-spaceships-spare-parts.html</link>
+      <description>The developers of Homeworld: Deserts of Kharak have announced a new game, coming to Early Access this summer.</description>
+      <author>Christopher Livingston</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/qVebB2CSwkkFjfDwq7Jz9J.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/hardspace-shipbreaker-cut-derelict-spaceships-spare-parts.html</guid>
+      <pubDate>Tue, 25 Feb 2020 20:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the 17-year-old who discovered an alien planet: A Q&amp;A with high school student Wolf Cukier</title>
+      <link>https://www.space.com/high-school-student-exoplanet-discovery-wolf-cukier.html</link>
+      <description>17-year-old high school student Wolf Cukier made a major discovery on the third day of his NASA internship, when he noticed the telltale signs of a distant planet orbiting two stars. </description>
+      <author>Doris Elin Urrutia</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/YwQGV3kyfWXTV78tk4LAaJ.png" length="0" type="image/png"></enclosure>
+      <guid>https://www.space.com/high-school-student-exoplanet-discovery-wolf-cukier.html</guid>
+      <pubDate>Tue, 25 Feb 2020 19:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hot Wheels is rolling out 2 remote-controlled Cybertrucks (cracked widow and all) in 2020</title>
+      <link>https://www.space.com/hot-wheels-cybertruck-rc-toys-coming-in-2020.html</link>
+      <description>Tesla&#39;s futuristic Cybertruck is now a Hot Wheels toy. And it comes complete with a &#34;cracked window sticker,&#34; so you can relive some of the vehicle&#39;s wildest moments. </description>
+      <author>Chelsea Gohd</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/xLRnigCakKkdYTxwSJnkV5.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/hot-wheels-cybertruck-rc-toys-coming-in-2020.html</guid>
+      <pubDate>Tue, 25 Feb 2020 16:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>What can the coronavirus outbreak teach us about bringing Mars samples back to Earth?</title>
+      <link>https://www.space.com/coronavirus-lessons-for-mars-sample-return-worries.html</link>
+      <description>A new virus called SARS-CoV-2 is a coronavirus that has caused an outbreak of a disease called COVID-19. But what does that have to do with Mars?</description>
+      <author>Leonard David</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/KQ4SZaxY9qKKRCAdvHiNkJ.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/coronavirus-lessons-for-mars-sample-return-worries.html</guid>
+      <pubDate>Tue, 25 Feb 2020 16:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kerbal Space Program 2 trailer shows off nuclear propulsion, metallic hydrogen and  torchships</title>
+      <link>https://www.space.com/kerbal-space-program-2-trailer-nuclear-propulsion-torchships.html</link>
+      <description>Kerbal Space Program 2 may have been delayed, but that hasn&#39;t slowed down development or the dreams of a billion tiny green things. </description>
+      <author>Jonathan Bolding</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/Lye8jCnyRgF2pgfNiWA9hJ.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/kerbal-space-program-2-trailer-nuclear-propulsion-torchships.html</guid>
+      <pubDate>Tue, 25 Feb 2020 15:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA has a new idea to get the InSight lander&#39;s &#39;mole&#39; on Mars digging again</title>
+      <link>https://www.space.com/nasa-mars-insight-mole-new-digging-strategy.html</link>
+      <description>The &#34;mole&#34; aboard NASA&#39;s Mars InSight lander is about to get yet another push.&#xA;</description>
+      <author>Mike Wall</author>
+      <enclosure url="http://cdn.mos.cms.futurecdn.net/W5X6SwEbt2GUbnfinxWDci.jpg" length="0" type="image/jpeg"></enclosure>
+      <guid>https://www.space.com/nasa-mars-insight-mole-new-digging-strategy.html</guid>
+      <pubDate>Tue, 25 Feb 2020 12:12:02 +0000</pubDate>
+    </item>
   </channel>
 </rss>
