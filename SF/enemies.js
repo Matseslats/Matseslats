@@ -171,11 +171,11 @@ function chechIfHit(){
 
 function speedOfEnemy(){
   if (score < 100){
-    enemySpeed = 30;
+    enemySpeed = 20;
   } else if (score < 500){
-    enemySpeed = 35;
+    enemySpeed = 25;
   } else if (score < 1000){
-    enemySpeed = 40;
+    enemySpeed = 30;
   }
 }
 
