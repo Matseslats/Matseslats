@@ -1,4 +1,4 @@
-# Matseslats
+# About me
 I am a computer science student studying at Aberystwyth University. Below are some of my favourite repositories. You can find more on my home page at [matseslats.com](https://matseslats.com).
 
 ## Featured projects:
