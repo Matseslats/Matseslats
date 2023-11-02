@@ -1,1 +1,1 @@
-Homepage: [https://matseslats.com](matseslats.com)
+Below are some of my favourite repositories. You can find more on my home page at [matseslats.com](https://matseslats.com).
