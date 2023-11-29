@@ -11,7 +11,7 @@ Outlap is a website where people can see the upcoming Formula 1, IndyCar, MotoGP
 
 I review escalators. You can too! The perfect family activity when you are out travelling. Visit escalatorreviews.com to review *your* local escalator. 
 
-[![Cansat Trident 2022](/pictures/cansat.png "CanSat Trident 2022")](https://cansat-trident.space)
+[![Cansat Trident 2022](/pictures/cansat.png "CanSat Trident 2022")](https://matseslats.github.io/cansat-website/)
 
 Trident was a CanSat competing in the 2022 Norwegian and 2022 European CanSat Competition.
 
